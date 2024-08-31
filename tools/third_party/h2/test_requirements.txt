@@ -3,3 +3,4 @@ pytest-cov==2.8.1
 pytest-xdist==1.31.0
 coverage==4.5.4
 hypothesis
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
